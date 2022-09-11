@@ -46,7 +46,7 @@ $ cd repsonsive-website-playstation
 
 <br/>
 
-## 📝 Licença:
+## 📝 License:
 
 This project is under license. see the file [LICENSE](LICENSE.md) for more details.
 
